@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "sample title",
+      "completed": true,
+      "createdOn": "2023-01-30T17:01:59.162Z"
+    },
+    {
+      "id": 3,
+      "title": "hello",
+      "completed": false,
+      "createdOn": "2023-01-30T18:15:53.843Z"
+    }
+  ]
+}
